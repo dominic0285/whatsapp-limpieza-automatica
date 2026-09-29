@@ -43,6 +43,8 @@ npx pkg buscar_y_borrar.js --targets node18-win-x64 --output limpieza-whatsapp.e
 
 > `whatsapp-web.js` descarga Chromium (Puppeteer) la primera vez; el `.exe` necesita conexión a internet en ese primer arranque.
 
-## 👤 Autor
+## Autor
 
-**Dominic De Freitas** — [GitHub](https://github.com/dominic0285) · [LinkedIn](https://www.linkedin.com/in/dominic-de-freitas-07102828a/)
+**Dominic De Freitas** — Ingeniero en Informática (UGMA). Desarrollo aplicaciones móviles y web con React Native, TypeScript, Node.js y Python, y busco mi primer puesto como desarrollador junior remoto.
+
+[Perfil de GitHub](https://github.com/dominic0285) · [LinkedIn](https://www.linkedin.com/in/dominic-de-freitas-07102828a/) · dominicdefreitasfd@gmail.com
