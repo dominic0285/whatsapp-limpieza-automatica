@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-limpieza-automatica",
+  "version": "1.0.0",
+  "description": "Borra automáticamente mensajes de WhatsApp que contienen información sensible específica",
+  "main": "buscar_y_borrar.js",
+  "scripts": {
+    "start": "node buscar_y_borrar.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "automatizacion",
+    "privacidad",
+    "gemini",
+    "nodejs"
+  ],
+  "author": "Dominic De Freitas",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "https://github.com/pedroslopez/whatsapp-web.js/tarball/main",
+    "dotenv": "^16.4.5"
+  }
+}
